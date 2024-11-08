@@ -1,6 +1,6 @@
 {
-    "url": "http://localhost:3000",
+    "url": "https://lucenera75.github.io/trep1",
     "name": "TON App",
-    "iconUrl": "/icon.png",
+    "iconUrl": "https://lucenera75.github.io/trep1/icon.png",
     "description": "A sample TON application"
 }
